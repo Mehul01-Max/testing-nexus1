@@ -17,3 +17,9 @@ This project was created using `bun init` in bun v1.2.5. [Bun](https://bun.sh) i
 asdfasd
 
 asdfasdf
+
+3-page PDF explaining:
+
+Agent Architecture
+Business Use Case
+Overall Workflow
